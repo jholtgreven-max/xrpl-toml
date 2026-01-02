@@ -6,4 +6,4 @@ description = "An XRPL Validator"
 owner_country = "US"  # Or your country code
 
 [METADATA]
-modified = "2026-01-02"  # Today's date or whenever you update it
+modified = "2026-01-02T00:00:00.000Z"  # Today's date or whenever you update it
