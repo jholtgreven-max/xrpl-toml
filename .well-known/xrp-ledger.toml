@@ -1,0 +1,9 @@
+[[VALIDATORS]]
+public_key = "nHUyiGRioLpta9x5AdQNPCuLCmYR5Ch3GuWsMLXEPWGJ7tKEuD1t"
+description = "An XRPL Validator"
+# Optional fields:
+# network = "main"
+owner_country = "US"  # Or your country code
+
+[METADATA]
+modified = "2026-01-02"  # Today's date or whenever you update it
