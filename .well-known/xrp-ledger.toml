@@ -5,3 +5,6 @@ description = "An XRPL Validator"
 # network = "main"
 owner_country = "US"  # Or your country code
 
+[[ACCOUNTS]]
+address = "rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe"  # Must be a REAL, valid r... address
+desc = "XRPLValidator"
