@@ -1,10 +1,10 @@
 [[VALIDATORS]]
 public_key = "nHUyiGRioLpta9x5AdQNPCuLCmYR5Ch3GuWsMLXEPWGJ7tKEuD1t"
 description = "An XRPL Validator"
-# Optional fields:
+# Optional fields (recommended):
 # network = "main"
-owner_country = "US"  # Or your country code
+owner_country = "us"  # lowercase recommended
 
 [[ACCOUNTS]]
-address = "rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe"  # Must be a REAL, valid r... address
-desc = "XRPLValidator"
+address = "rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe"
+description = "XRPLValidator"  # changed from 'desc'
