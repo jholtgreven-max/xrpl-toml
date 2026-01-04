@@ -1,7 +1,7 @@
 title: XRPL Validator
 description: A description for your site
 show_downloads: true
-google_analytics: # (add your tracking ID if you want)
+google_analytics: "G-3DCL0Z21HY"
 
 remote_theme: pages-themes/midnight@v0.2.0
 
