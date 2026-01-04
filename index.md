@@ -8,7 +8,7 @@ This site also supports the operation of an **XRP Ledger validator**. Running a 
 
 If you’d like to help support the validator, **XRP donations are welcome**.
 
-### Donate via Xaman Wallet (QR Code)
+### Donate via QR Code
 
 <img src="/assets/xaman-qr.jpg" alt="Xaman Wallet XRP Donation QR Code" width="220">
 
