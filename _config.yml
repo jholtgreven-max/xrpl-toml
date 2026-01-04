@@ -5,6 +5,9 @@ google_analytics: "G-3DCL0Z21HY"
 
 remote_theme: pages-themes/midnight@v0.2.0
 
+include:
+  - .well-known
+
 plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
