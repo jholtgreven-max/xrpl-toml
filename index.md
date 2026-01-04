@@ -20,7 +20,9 @@ Scan the QR code above using the **Xaman Wallet** to send XRP.
 
 ### Donate via Wallet Address
 
-You may also send XRP directly to the following wallet address:
+You may also send XRP directly to the following wallet address, using the XRP network (no destination tag required):
+
+rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe
 
 ## File Location
 
