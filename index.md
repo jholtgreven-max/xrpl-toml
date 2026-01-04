@@ -2,12 +2,11 @@
 title: XRPL Domain Verification
 ---
 
+## Support the Validator
 
 This site also supports the operation of an **XRP Ledger validator**. Running a validator requires reliable infrastructure and ongoing maintenance to ensure consistent performance and network stability.
 
 If you’d like to help support the validator, **XRP donations are welcome**.
-
-## Support the Validator
 
 ### Donate via Xaman Wallet (QR Code)
 
