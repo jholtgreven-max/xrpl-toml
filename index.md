@@ -2,11 +2,8 @@
 title: XRPL Domain Verification
 ---
 
-## About
 
-This site hosts the `xrp-ledger.toml` file used for **XRP Ledger (XRPL) domain verification**, helping securely link this domain to its associated XRPL account.
-
-It also supports the operation of an **XRP Ledger validator**. Running a validator requires reliable infrastructure and ongoing maintenance to ensure consistent performance and network stability.
+This site also supports the operation of an **XRP Ledger validator**. Running a validator requires reliable infrastructure and ongoing maintenance to ensure consistent performance and network stability.
 
 If you’d like to help support the validator, **XRP donations are welcome**.
 
