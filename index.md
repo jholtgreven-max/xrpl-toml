@@ -14,9 +14,7 @@ If you’d like to help support the validator, **XRP donations are welcome**.
 
 ### Donate via Wallet Address
 
-You may also send XRP directly to the following wallet address, using the XRP network (no destination tag required):
-
-rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe
+You may also send XRP directly to the following wallet address, using the XRP network (no destination tag required): **rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe**
 
 ## File Location
 
