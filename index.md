@@ -10,18 +10,18 @@ If you’d like to help support the validator, **XRP donations are welcome**.
 
 ### Donate via QR Code (using exchange of your choice)
 
-Rather than typing in the wallet address when selecting the recipient, simply scan this QR code.
+Rather than typing in the wallet address when selecting the recipient, simply scan the QR code below.
 
 <img src="/assets/xaman-qr.jpg" alt="Xaman Wallet XRP Donation QR Code" width="220">
 
 ### Donate via Wallet Address
 
-You may also send XRP directly to the following wallet address, using the XRP network (no destination tag required): **rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe**
+You may also send XRP directly using the **XRP network** (no destination tag required): **rAW9kzFLg5ZDwfTLJu35AcNRf2TbTezJe**
+
+---
 
 ## File Location
 
 The verification file is available at:
 
 [/.well-known/xrp-ledger.toml](/.well-known/xrp-ledger.toml)
-
-
